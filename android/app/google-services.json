@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "20834141401",
+    "project_id": "lovejollof-39a94",
+    "storage_bucket": "lovejollof-39a94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20834141401:android:e29d1e01598683c872aac8",
+        "android_client_info": {
+          "package_name": "com.lovejollof.ljapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20834141401-4v8nlt3e82udcl3vnu8kqsrvg9fjvnvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lovejollof.ljapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "20834141401-fh823bn1sa9448g2e6lkh24hrutbaamr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoXQ1kGk66eNAfRbjA2JsTZ47FTpENF2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20834141401-fh823bn1sa9448g2e6lkh24hrutbaamr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20834141401-u3uav1naf6nis5itplmi27r3nrp93alc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lovejollof.ljapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
